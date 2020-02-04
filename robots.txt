@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeyachoocu.stavnstrup.dk/sitemap.xml
